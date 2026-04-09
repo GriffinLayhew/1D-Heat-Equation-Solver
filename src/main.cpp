@@ -36,7 +36,7 @@ int main(int argc, char* argv[])
                 Input Space for Constants
     =============================================
     */
-    double dt           = 0.01;
+    double dt           = 0.005;
     double Diffusion    = 1.0;
     int GridElements    = 5000;
     double Domain       = 1.0;
